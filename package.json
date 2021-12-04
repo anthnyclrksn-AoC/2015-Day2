@@ -1,0 +1,24 @@
+{
+  "name": "2015-day2",
+  "version": "1.0.0",
+  "description": "Day 2 for Advent of Code 2015.",
+  "main": "./src/code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthnyclrksn-AoC/2015-Day2.git"
+  },
+  "keywords": [
+    "Advent",
+    "of",
+    "Code"
+  ],
+  "author": "anthnyclrksn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthnyclrksn-AoC/2015-Day2/issues"
+  },
+  "homepage": "https://github.com/anthnyclrksn-AoC/2015-Day2#readme"
+}
